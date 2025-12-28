@@ -1,0 +1,73 @@
+############################
+# Unity generated folders #
+############################
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+############################
+# Unity cache files       #
+############################
+UserSettings/
+.DS_Store
+Thumbs.db
+
+############################
+# Visual Studio / Rider   #
+############################
+.vs/
+.vscode/
+.idea/
+*.csproj
+*.sln
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+
+############################
+# Unity Crash Reports     #
+############################
+sysinfo.txt
+crashlytics-build.properties
+
+############################
+# Build artifacts         #
+############################
+*.apk
+*.aab
+*.exe
+*.app
+*.unitypackage
+
+############################
+# Addressables / Asset DB #
+############################
+AssetDatabase/
+AddressableAssetsData/
+
+############################
+# Log files               #
+############################
+*.log
+
+############################
+# Test & Coverage         #
+############################
+TestResults/
+coverage/
+
+############################
+# Package cache           #
+############################
+Packages/packages-lock.json
+*.meta
+*.cache
+*.tmp
